@@ -24,7 +24,7 @@ This project involves the development of a **Python script** to detect a moving 
 
 ### Video Demonstration
 
-(path_to_video.mp4)
+[Video](video.mp4)
 
 ## Prerequisites
 
