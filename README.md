@@ -22,6 +22,10 @@ This project involves the development of a **Python script** to detect a moving 
 
 - `perception_project1.ipynb`: The Jupyter notebook that contains the entire implementation of the object detection and curve fitting process. The notebook also visualizes the results.
 
+### Video Demonstration
+
+(path_to_video.mp4)
+
 ## Prerequisites
 
 To run this project, make sure you have the following libraries installed:
@@ -35,3 +39,6 @@ Install the dependencies using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib
+
+
+
